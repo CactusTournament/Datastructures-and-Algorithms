@@ -19,6 +19,7 @@ dist/
 build/
 *.o
 *.exe
+*.class
 
 # Environment variables
 .env
